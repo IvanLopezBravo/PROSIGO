@@ -1,0 +1,17 @@
+[23-May-2019 12:24:20 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 12:24:24 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 12:24:49 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:20:07 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:20:19 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:23:46 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:24:30 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:24:39 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:29:55 America/Mexico_City] PHP Fatal error:  Class 'msqli' not found in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[23-May-2019 17:38:42 America/Mexico_City] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/prosigoc/public_html/webservices/pendientes/insertar.php on line 9
+[27-May-2019 17:51:11 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'prosigoc_prueba'@'68.70.164.13' to database 'prosigoc_prueba' in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[27-May-2019 17:51:17 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'prosigoc_prueba'@'68.70.164.13' to database 'prosigoc_prueba' in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[27-May-2019 17:51:17 America/Mexico_City] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/prosigoc/public_html/webservices/pendientes/insertar.php on line 9
+[27-May-2019 17:51:17 America/Mexico_City] PHP Warning:  mysqli_errno() expects exactly 1 parameter, 0 given in /home/prosigoc/public_html/webservices/pendientes/insertar.php on line 9
+[27-May-2019 17:51:21 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'prosigoc_prueba'@'68.70.164.13' to database 'prosigoc_prueba' in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[27-May-2019 17:51:31 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'prosigoc_prueba'@'68.70.164.13' to database 'prosigoc_prueba' in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
+[27-May-2019 17:52:14 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'prosigoc_prueba'@'68.70.164.13' to database 'prosigoc_prueba' in /home/prosigoc/public_html/webservices/pendientes/conexion.php on line 7
